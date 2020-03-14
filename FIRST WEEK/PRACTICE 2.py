@@ -1,0 +1,8 @@
+names=input("Enter your names here: ")
+email=input("Enter your email address here: ")
+age=input("Enter your age here: ")
+occupation=input("Enter your occupation here: ")
+print(names)
+print(email)
+print(age)
+print(occupation)

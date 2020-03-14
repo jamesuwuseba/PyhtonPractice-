@@ -1,0 +1,8 @@
+print("This Program will request you to provide any 2 integers and it will provide the answers in addition, subtraction, multiplication and division")
+print("RULES:First integer must be greater than the second integer")
+first_integer=int(input("Enter the first integer here: "))
+second_integer=int(input("Enter the second integer here: "))
+print("The subtraction is: ",first_integer-second_integer)
+print("The addition is: ",first_integer+second_integer)
+print("The multiplication is: ",first_integer*second_integer)
+print("The division is: ",first_integer/second_integer)

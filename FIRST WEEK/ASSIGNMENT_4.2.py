@@ -1,0 +1,5 @@
+print("The programme will calculate the area and the peremeter of rectangle")
+breath=int(input("Provide the breath of the rectangle here(m)= "))
+length=int(input("Provide the value  of the length here(m)= "))
+print("The area of the rectangle= ",breath*length,"m^2",sep="")
+print("The perimeter of the rectangle=",2*(length*breath),"m",sep="")
